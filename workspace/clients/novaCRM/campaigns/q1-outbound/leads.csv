@@ -1,0 +1,16 @@
+first_name,last_name,title,company,industry,size,location,linkedin_url
+Sarah,Chen,VP of Sales,Acme Analytics,B2B SaaS,120,"San Francisco, CA",https://linkedin.com/in/sarachen
+James,Park,Head of Revenue,DataFlow Systems,Analytics Software,85,"New York, NY",https://linkedin.com/in/jamespark
+Rachel,Kim,CRO,StackBuild,Developer Tools,210,"Austin, TX",https://linkedin.com/in/rachelkim
+Tom,Morrison,Sales Director,CloudMetrics,SaaS Analytics,95,"Chicago, IL",https://linkedin.com/in/tommorrison
+Anika,Patel,VP Sales,SignalHQ,Marketing Tech,150,"Boston, MA",https://linkedin.com/in/anikapatel
+David,Okafor,Head of Sales,PipelineOS,Revenue Operations,78,"Denver, CO",https://linkedin.com/in/davidokafor
+Emily,Vasquez,CRO,BrightEdge AI,AI/ML Platform,320,"Seattle, WA",https://linkedin.com/in/emilyvasquez
+Michael,Tanaka,VP of Sales,FormStack Pro,Productivity SaaS,180,"Portland, OR",https://linkedin.com/in/michaeltanaka
+Jessica,Williams,Sales Director,NexGen Cloud,Cloud Infrastructure,260,"Raleigh, NC",https://linkedin.com/in/jessicawilliams
+Ryan,Cooper,Head of Revenue,MetricShift,Business Intelligence,110,"Salt Lake City, UT",https://linkedin.com/in/ryancooper
+Priya,Nair,VP Sales,Launchpad CX,Customer Success,90,"Atlanta, GA",https://linkedin.com/in/priyanair
+Chris,Martinez,CRO,ScaleForce,Sales Enablement,145,"San Diego, CA",https://linkedin.com/in/chrismartinez
+Lauren,Zhao,Sales Director,InsightLoop,Data Analytics,200,"Minneapolis, MN",https://linkedin.com/in/laurenzhao
+Daniel,O'Brien,VP of Sales,TrustLayer,Compliance SaaS,75,"Washington, DC",https://linkedin.com/in/danielobrien
+Samantha,Lee,Head of Sales,GrowthSync,Marketing Automation,165,"Toronto, ON",https://linkedin.com/in/samanthalee
