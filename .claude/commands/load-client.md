@@ -15,6 +15,11 @@ Load these files for `$ARGUMENTS`:
 - `workspace/clients/$ARGUMENTS/icp.md` - Their target audience
 - `workspace/clients/$ARGUMENTS/offer.md` - Their value proposition
 
+If `$ARGUMENTS` is `beagle`, also read:
+- `context/beagle/context.md` - Beagle Security company context
+- `context/beagle/icp.md` - Full ICP with tier definitions
+- `context/beagle/offer.md` - Full offer and brand voice rules
+
 ### 2. Scan Active Campaigns
 
 List all folders in `workspace/clients/$ARGUMENTS/campaigns/` and identify which are active (check for campaign-brief.md with status).

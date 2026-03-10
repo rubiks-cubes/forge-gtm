@@ -2,7 +2,7 @@
 description: Daily briefing. Shows campaign status across all clients, flags issues, and surfaces priorities for the day.
 ---
 
-Start the day with a full view across all active clients and campaigns.
+Start the day with a full view across all active Beagle Security outbound campaigns.
 
 ## Process
 

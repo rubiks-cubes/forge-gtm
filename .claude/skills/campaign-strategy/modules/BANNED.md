@@ -44,6 +44,30 @@ Patterns that trigger spam filters, feel robotic, or reduce response rates. Chec
 - **Multiple CTAs**: One email, one question
 - **Paragraphs**: Keep every email scannable. Short sentences, line breaks.
 
+## Beagle Security — Additional Banned Patterns
+
+These are specific to Beagle Security's brand voice. Fear-based selling is strictly off-limits.
+
+### Banned Fear Triggers
+- "Hackers are getting smarter"
+- "You could be breached"
+- "Attackers are targeting companies like yours"
+- "Every day without security testing is a risk"
+- "Data breaches are on the rise"
+- Any variation of "before it's too late"
+- "Cyber threats", "threat landscape", "attack surface" as fear hooks
+
+### Why
+Beagle Security sells confidence and capability — not fear. The brand voice (Rejah Rehim, CEO) is pragmatic and peer-to-peer. Fear framing undermines trust and positions us as just another security vendor using anxiety to sell.
+
+### What to Say Instead
+- Frame around operational efficiency: "48 hours instead of 3 weeks"
+- Frame around team capability: "test every deploy without adding headcount"
+- Frame around compliance readiness: "SOC 2 report ready when your auditor asks"
+- Frame around smart resource allocation: "before you spend $150K on a hire"
+
+---
+
 ## What to Do Instead
 
 - **Opener**: Reference something SPECIFIC and OBSERVABLE about their company
